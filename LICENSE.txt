@@ -1,0 +1,47 @@
+Stintmate licence terms
+
+1. Free to use
+Stintmate is free of charge. You may install it on your own PCs, use it, and share the unmodified
+installer. Supporting Stintmate on Patreon is optional and unlocks nothing in the program.
+You may not sell the program or remove its notices.
+
+2. Parts under their own licences
+Stintmate Speech, the speech engine inside this package, is free software under the GNU General
+Public License, version 3 or later. Its complete corresponding source is published next to this
+installer on Stintmate's releases page:
+https://github.com/Stintmate-App/stintmate-releases/releases
+Stintmate's official connectors, the connector kit and the Stintmate IPC libraries are open
+source under the Apache License 2.0. Every other component keeps its own licence; the list and
+the full texts are in THIRD-PARTY-NOTICES.txt in the install folder. Nothing in these terms
+limits your rights under those licences.
+
+3. Your data
+Your sessions, laps, notes and settings stay in the work folder you choose, on this PC. Stintmate
+sends nothing on its own, with two exceptions:
+- once a day it reads its public releases page to look for a new version (you can turn this off
+  in Settings);
+- a problem report is sent to the Stintmate team's server only when you press Send, after you
+  have seen and can untick every file in it; the attached files are deleted when the report is
+  closed.
+
+4. Your AI agent
+Your race engineer runs in the AI agent you choose (for example Claude Code, opencode, Codex CLI or
+Antigravity CLI). The agent is a separate program under its provider's terms, with your own
+account, plan or credits. What you say to your engineer is processed by that provider, not by
+Stintmate.
+
+5. Games
+Stintmate reads the games' official telemetry through connectors. It never writes to a game's
+folders and never changes the game.
+
+6. Installation
+The installer puts the program in your user profile (no administrator rights). Uninstalling removes
+the program and never your work folder, your racing data or the games.
+
+7. No warranty
+Stintmate is provided as is, without warranty of any kind, to the extent permitted by the law that
+applies to you. The authors are not liable for any damage arising from its use, except where that
+law does not allow this limit. Nothing here limits your statutory rights as a consumer.
+
+8. More information
+Stintmate's official page: https://www.stintmate.app
